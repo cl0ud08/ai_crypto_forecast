@@ -51,13 +51,6 @@ streamlit run app.py
 - **Interactive Charts**: Zoom, pan, and hover capabilities
 - **Responsive Design**: Works on desktop and mobile devices
 
-## 🌟 Resume Impact Features
-- **Production-Ready Code**: Professional coding standards and documentation
-- **API Integration**: Real-time external data sources
-- **Scalable Architecture**: Modular design for easy expansion
-- **Performance Optimization**: Efficient data processing and visualization
-- **Modern Tech Stack**: Industry-standard tools and frameworks
-
 ## 📚 Learning Outcomes
 - **Machine Learning**: Time series forecasting and ensemble methods
 - **Data Engineering**: Real-time data pipelines and API integration
@@ -71,3 +64,4 @@ streamlit run app.py
 - **Portfolio Management**: Automated trading strategies
 - **Cloud Deployment**: AWS/Azure integration and scaling
 - **Mobile App**: React Native or Flutter mobile application
+
